@@ -1,0 +1,1172 @@
+{
+    "header" : {
+      "version" : "12",
+      "enquiryControlNumber" : "002157276687",
+      "dateProcessed" : "2022-09-02",
+      "timeProcessed" : "12:28:51"
+    },
+    "customer" : {
+      "firstName" : "Manish  Meena",
+      "middleName1" : "L",
+      "middleName2" : "MGM",
+      "middleName3" : "RITA"
+    },
+    "kyc" : [ {
+      "type" : "PAN",
+      "value" : "PPZTW7681C"
+    }, {
+      "type" : "Passport Number",
+      "value" : "H2962762"
+    }, {
+      "type" : "Universal ID Number (UID)",
+      "value" : "963805118312"
+    } ],
+    "contact" : [ {
+      "value" : "918373923789",
+      "type" : "Mobile Phone"
+    }, {
+      "value" : "8670395190",
+      "type" : "Mobile Phone"
+    }, {
+      "value" : "8459773855",
+      "type" : "Mobile Phone"
+    }, {
+      "value" : "8302002945",
+      "type" : "Mobile Phone"
+    } ],
+    "email" : [ "CHITRAL.ADITYA26@GMAIL.COM" ],
+    "employment" : {
+      "accountType" : "Auto Loan(Personal)",
+      "date" : "2022-04-30",
+      "occupation" : "Others"
+    },
+    "score" : [ {
+      "name" : "CIBILTUSC3",
+      "date" : "2022-09-02",
+      "value" : 774,
+      "reasonCode1" : "HIGH BALANCE IN PROPORTION TO HIGH CREDIT AMOUNT IN THE LAST 12 MONTHS",
+      "reasonCode2" : "HIGH BALANCE BUILD-UP ON NON-MORTGAGE LOANS",
+      "reasonCode3" : "RECENT HIGH BALANCE BUILD ON BANKCARD TRADES"
+    }, {
+      "name" : "CIBILTUIE2",
+      "date" : "2022-09-02",
+      "value" : 4
+    } ],
+    "address" : [ {
+      "line1" : "409 J P COLONY SECTOR N  01 SHASTRI",
+      "line2" : "NAGAR A AH ROAD SHASTRI NAGAR JAIPUR",
+      "line3" : "STREET",
+      "line5" : "MUMBAI",
+      "state" : "Maharashtra",
+      "pincode" : "400050",
+      "category" : "Residence Address",
+      "dateReported" : "2022-07-22",
+      "enrichedThroughEnquiry" : "Y"
+    }, {
+      "line1" : "RESIDENCY ROAD,ASHOK NAGAR,BENGALURU",
+      "line5" : "JMS",
+      "state" : "Jharkhand",
+      "pincode" : "831005",
+      "category" : "Residence Address",
+      "dateReported" : "2022-06-15",
+      "enrichedThroughEnquiry" : "Y"
+    }, {
+      "line1" : "RESIDENCY ROAD,ASHOK NAGAR,BENGALURU",
+      "line5" : "BANL",
+      "state" : "Karnataka",
+      "pincode" : "560096",
+      "category" : "Residence Address",
+      "dateReported" : "2022-06-13",
+      "enrichedThroughEnquiry" : "Y"
+    }, {
+      "line1" : "501 FIFTH FLOOR,PAM VILLE DMONTE PARK N.",
+      "line2" : "177 MAHALAKSHMI NAGAR,1ST KURUKKU",
+      "line3" : "STREET",
+      "line5" : "MUMBAI",
+      "state" : "Rajasthan",
+      "pincode" : "302016",
+      "category" : "Residence Address",
+      "dateReported" : "2022-06-02",
+      "enrichedThroughEnquiry" : "Y"
+    } ],
+    "account" : [ {
+      "memberName" : "NOT DISCLOSED",
+      "type" : "Credit Card",
+      "ownershipIndicator" : "Individual",
+      "dateOpened" : "2022-04-12",
+      "dateReportedAndCertified" : "2022-04-30",
+      "currentBalance" : 0,
+      "paymentHistory1" : "000",
+      "paymentHistoryStartDate" : "2022-04-01",
+      "paymentHistoryEndDate" : "2022-04-01",
+      "paymentHistory" : [ {
+        "month" : 4,
+        "year" : 2022,
+        "type" : "000"
+      } ]
+    }, {
+      "memberName" : "NOT DISCLOSED",
+      "type" : "Auto Loan(Personal)",
+      "ownershipIndicator" : "Joint",
+      "dateOpened" : "2022-03-08",
+      "dateReportedAndCertified" : "2022-04-30",
+      "sanctionAmount" : 500000,
+      "currentBalance" : 488327,
+      "paymentHistory1" : "STDSTD",
+      "paymentHistoryStartDate" : "2022-04-01",
+      "paymentHistoryEndDate" : "2022-03-01",
+      "paymentHistory" : [ {
+        "month" : 4,
+        "year" : 2022,
+        "type" : "STD"
+      }, {
+        "month" : 3,
+        "year" : 2022,
+        "type" : "STD"
+      } ]
+    }, {
+      "memberName" : "NOT DISCLOSED",
+      "type" : "Credit Card",
+      "ownershipIndicator" : "Individual",
+      "dateOpened" : "2018-11-13",
+      "dateReportedAndCertified" : "2022-04-30",
+      "sanctionAmount" : 140020,
+      "currentBalance" : 9899,
+      "paymentHistory1" : "000000000000000000000000000000000000000000000000000000",
+      "paymentHistory2" : "000000000000000000000000000000000000000000000000000000",
+      "paymentHistoryStartDate" : "2022-04-01",
+      "paymentHistoryEndDate" : "2019-05-01",
+      "paymentHistory" : [ {
+        "month" : 4,
+        "year" : 2022,
+        "type" : "000"
+      }, {
+        "month" : 3,
+        "year" : 2022,
+        "type" : "000"
+      }, {
+        "month" : 2,
+        "year" : 2022,
+        "type" : "000"
+      }, {
+        "month" : 1,
+        "year" : 2022,
+        "type" : "000"
+      }, {
+        "month" : 12,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 11,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 10,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 9,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 8,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 7,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 6,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 5,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 4,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 3,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 2,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 1,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 12,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 11,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 10,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 9,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 8,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 7,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 6,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 5,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 4,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 3,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 2,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 1,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 12,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 11,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 10,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 9,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 8,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 7,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 6,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 5,
+        "year" : 2019,
+        "type" : "000"
+      } ]
+    }, {
+      "memberName" : "NOT DISCLOSED",
+      "type" : "Credit Card",
+      "ownershipIndicator" : "Individual",
+      "dateOpened" : "2016-07-15",
+      "dateClosed" : "2019-07-06",
+      "dateReportedAndCertified" : "2021-10-16",
+      "sanctionAmount" : 68741,
+      "currentBalance" : 0,
+      "paymentHistory1" : "000000000000000000000000000000000000000000000000000000",
+      "paymentHistory2" : "000000000000000000000000000000000000000000000000000000",
+      "paymentHistoryStartDate" : "2021-10-01",
+      "paymentHistoryEndDate" : "2018-11-01",
+      "paymentHistory" : [ {
+        "month" : 10,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 9,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 8,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 7,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 6,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 5,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 4,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 3,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 2,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 1,
+        "year" : 2021,
+        "type" : "000"
+      }, {
+        "month" : 12,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 11,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 10,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 9,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 8,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 7,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 6,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 5,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 4,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 3,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 2,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 1,
+        "year" : 2020,
+        "type" : "000"
+      }, {
+        "month" : 12,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 11,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 10,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 9,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 8,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 7,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 6,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 5,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 4,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 3,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 2,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 1,
+        "year" : 2019,
+        "type" : "000"
+      }, {
+        "month" : 12,
+        "year" : 2018,
+        "type" : "000"
+      }, {
+        "month" : 11,
+        "year" : 2018,
+        "type" : "000"
+      } ]
+    }, {
+      "memberName" : "NOT DISCLOSED",
+      "type" : "Overdraft",
+      "ownershipIndicator" : "Individual",
+      "dateOpened" : "2015-09-12",
+      "dateClosed" : "2018-01-02",
+      "dateReportedAndCertified" : "2018-02-01",
+      "currentBalance" : 0,
+      "paymentHistory1" : "000000000000000000000000000000000000000000000000000000",
+      "paymentHistory2" : "000000000000000000000000000000",
+      "paymentHistoryStartDate" : "2018-02-01",
+      "paymentHistoryEndDate" : "2015-11-01",
+      "paymentHistory" : [ {
+        "month" : 2,
+        "year" : 2018,
+        "type" : "000"
+      }, {
+        "month" : 1,
+        "year" : 2018,
+        "type" : "000"
+      }, {
+        "month" : 12,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 11,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 10,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 9,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 8,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 7,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 6,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 5,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 4,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 3,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 2,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 1,
+        "year" : 2017,
+        "type" : "000"
+      }, {
+        "month" : 12,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 11,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 10,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 9,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 8,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 7,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 6,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 5,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 4,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 3,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 2,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 1,
+        "year" : 2016,
+        "type" : "000"
+      }, {
+        "month" : 12,
+        "year" : 2015,
+        "type" : "000"
+      }, {
+        "month" : 11,
+        "year" : 2015,
+        "type" : "000"
+      } ]
+    } ],
+    "enquiry" : [ {
+      "date" : "2022-09-01",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-30",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-30",
+      "firstName" : "KISETSU",
+      "purpose" : "Business Loan - Unsecured",
+      "amount" : 100000
+    }, {
+      "date" : "2022-08-29",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-26",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-25",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-24",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-23",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-18",
+      "firstName" : "KISETSU",
+      "purpose" : "Business Loan - Unsecured",
+      "amount" : 500000
+    }, {
+      "date" : "2022-08-17",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-16",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-16",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-12",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-11",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-11",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-10",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-10",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-10",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-10",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-09",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-09",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-09",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-09",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-08",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-08",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-08",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-06",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-03",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-02",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-02",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-08-01",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-29",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-29",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-29",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-29",
+      "firstName" : "KISETSU",
+      "purpose" : "Business Loan - Unsecured",
+      "amount" : 100000
+    }, {
+      "date" : "2022-07-28",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-28",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-28",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-27",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-25",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-25",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-25",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-22",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-21",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-20",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-19",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-18",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-18",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-15",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-15",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-15",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-13",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-11",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-11",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-06",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-06",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-06",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-06",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-05",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-07-01",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-30",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-30",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-29",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-28",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-27",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-21",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-21",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-21",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-21",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-20",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-20",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-17",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-16",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-15",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-15",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-14",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-13",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-10",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-09",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-08",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-07",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-07",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-07",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-07",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-03",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-03",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-02",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-06-02",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-04-12",
+      "firstName" : "NOT DISCLOSED",
+      "purpose" : "Credit Card",
+      "amount" : 10000
+    }, {
+      "date" : "2022-03-16",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-03-09",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-03-07",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-03-04",
+      "firstName" : "VIJAYA BANK",
+      "purpose" : "Auto Loan(Personal)",
+      "amount" : 500000
+    }, {
+      "date" : "2022-03-03",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-02-28",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-02-25",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-02-17",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-02-17",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2022-02-17",
+      "firstName" : "KISETSU",
+      "purpose" : "Personal Loan",
+      "amount" : 1
+    }, {
+      "date" : "2020-11-17",
+      "firstName" : "NOT DISCLOSED",
+      "purpose" : "Business Loan - General",
+      "amount" : 100000
+    }, {
+      "date" : "2020-11-12",
+      "firstName" : "NAHAR",
+      "purpose" : "Consumer Loan",
+      "amount" : 50000
+    }, {
+      "date" : "2019-10-31",
+      "firstName" : "NOT DISCLOSED",
+      "purpose" : "Credit Card",
+      "amount" : 100
+    }, {
+      "date" : "2018-11-12",
+      "firstName" : "NOT DISCLOSED",
+      "purpose" : "Credit Card",
+      "amount" : 1000
+    }, {
+      "date" : "2016-07-15",
+      "firstName" : "NOT DISCLOSED",
+      "purpose" : "Credit Card",
+      "amount" : 100000
+    }, {
+      "date" : "2016-05-25",
+      "firstName" : "NOT DISCLOSED",
+      "purpose" : "Credit Card",
+      "amount" : 1000
+    }, {
+      "date" : "2016-04-20",
+      "firstName" : "NOT DISCLOSED",
+      "purpose" : "Credit Card",
+      "amount" : 30000
+    }, {
+      "date" : "2015-10-01",
+      "firstName" : "NOT DISCLOSED",
+      "purpose" : "Overdraft",
+      "amount" : 100000
+    }, {
+      "date" : "2015-10-01",
+      "firstName" : "NOT DISCLOSED",
+      "purpose" : "Credit Card",
+      "amount" : 100000
+    } ],
+    "success" : "True",
+    "accountSummary" : {
+      "totalAccount" : 5,
+      "zeroAccount" : 3,
+      "sanctionedAmount" : 708761,
+      "currentBalance" : 498226,
+      "recentAccount" : "2022-04-12",
+      "oldestAccount" : "2015-09-12"
+    },
+    "enquirySummary" : {
+      "last7Days" : 4,
+      "last30Days" : 34,
+      "last90Days" : 93,
+      "last180Days" : 101,
+      "last1Year" : 108,
+      "last2Year" : 110,
+      "recentDate" : "2022-09-01"
+    }
+  }
